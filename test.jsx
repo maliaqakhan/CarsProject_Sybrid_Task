@@ -1,0 +1,1 @@
+import './src/assets/images/carBGupdated.jpeg'
